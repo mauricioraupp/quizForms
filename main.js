@@ -1,4 +1,4 @@
-questions = [
+ const questions = [
     {
         question: "Qual é o objetivo principal do Artigo 7º da Constituição Federal?",
         answers: [
