@@ -57,7 +57,7 @@
         question: "Qual é o direito garantido pelo Artigo 7º em relação ao trabalho noturno?",
         answers: [
             "Jornada reduzida.",
-            "Aumento de 50% no salário."
+            "Aumento de 50% no salário.",
             "Descanso compensatório.",
         ],
         true_answer: 1,
